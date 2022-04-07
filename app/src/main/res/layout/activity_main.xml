@@ -24,7 +24,6 @@
         android:layout_height="wrap_content"
         android:layout_margin="20dp"
         android:text="@string/add_number"
-        android:onClick="addNumber"
-        tools:ignore="OnClick" />
+        android:onClick="addNumber"/>
 
 </LinearLayout>
